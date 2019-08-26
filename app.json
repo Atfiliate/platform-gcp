@@ -1,0 +1,13 @@
+{
+    "name": "atfiliate-platform",
+    "env": {
+        "BACKGROUND_COLOR": {
+            "description": "specify a css color",
+            "value": "#fefefe",
+            "required": false
+        },
+        "TITLE": {
+            "description": "Atfiliate Platform"
+        }
+    }
+  }
